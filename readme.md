@@ -98,3 +98,23 @@
 * 데이터의 속성이나 변수를 가진 단위의 정보량을 시각적으로 표현하는 것
 * 데이터를 공간에 배치해 보여줌으로써 그 패턴을 쉽게 인지하게 만드는 것
 
+> 정량적 정보의 시각화 원칙
+1. the smallest effective difference
+2. parallels & multiples for enhance
+3. confection
+
+> 빅데이터 시각화에 많이 사용되는 기법
+* 데이터량, 분포
+  + 선 그래프, 막대그래프
+  + 소셜그래프
+  + 등고선 / Heat Map
+  + Bubble Chart / 점분포
+  + Small multiples / 트리매핑
+  + 비교 프레임워크
+  + 다이어그램
+  + Tag Cloud
+* 스토리텔링
+  + Infographic
+  + 지도 합성
+* 실시간 변화량
+  + 애니메이션(실시간 변화량 측정)
